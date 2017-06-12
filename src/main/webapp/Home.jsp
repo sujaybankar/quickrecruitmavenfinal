@@ -15,9 +15,10 @@
 {
 background-color:#b3ccff;
 } 
+
 </style>
 </head>
-<body background="C:\Users\A664122\workspace\Quick_Recruit\WebContent\recruitment.jpg">
+<body background="asset/images/recruitment.jpg">
 
 <br>
 <h1 style="color: blue">Welcome to Quick Recruit</h1>
